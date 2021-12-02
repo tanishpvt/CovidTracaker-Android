@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+
+    <!--    on boarding screen-->
+
+    //Headings
+    <string name="heading_one">WHAT IS COVID-19 TRACKER</string>
+    <string name="heading_two">STAY HOME</string>
+    <string name="heading_three">MASK</string>
+    <string name="heading_fourth">WASH YOUR HANDS</string>
+
+    //Description
+    <string name="desc_one">This app allows you to find out the covid stats in India,See Details of any City
+and State in India .</string>
+    <string name="desc_two">Please stay at home don\'t go outside for unnecessary things</string>
+    <string name="desc_three">Wear Mask while leaving the Home</string>
+    <string name="desc_fourth">Wash your hands regularly</string>
+
+
+</resources>
