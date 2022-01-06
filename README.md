@@ -1,4 +1,4 @@
-# LGMVIP-Android
+# COVIDTRACKER-Android
 
 Task 1 : Create a COVID-19 Tracker Android App to See Details of any City
 and State in India
